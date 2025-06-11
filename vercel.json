@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    { "source": "/login", "destination": "/LoginPage/Login.html" },
+    { "source": "/signup", "destination": "/SignUpPage/Signup.html" },
+    { "source": "/dashboard-pencari", "destination": "/DashboardPage/DashboardPencari.html" },
+    { "source": "/dashboard-pembuat", "destination": "/DashboardPagePembuatLowongan/DashboardPembuat.html" },
+    { "source": "/lowongan-pencari", "destination": "/LowonganPekerja/LowonganPekerja.html" },
+    { "source": "/lowongan-pembuat", "destination": "/Lowongan Pembuat Kerja/LowonganPembuat.html" },
+    { "source": "/profil-pencari", "destination": "/ProfilePagePencariKerja/ProfilePekerja.html" },
+    { "source": "/profil-pembuat", "destination": "/Profile Page Pembuat Kerja/ProfilePembuat.html" }
+  ]
+}
